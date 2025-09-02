@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+body{
+    background-color:#E7EFC7;
+     margin: 0;
+     padding: 0;
+}
+.titulo{
+    margin: 0%;
+    font-size: 50px;
+    color:#3B3B1A ;
+    background-color:#AEC8A4;
+    font-family: "Poppins", sans-serif;;
+    text-align: center;
+    font-weight: 600;
+}
+.titulo__lanches{
+    color:#8A784E ;
+    margin: 20px;
+    font-family:  "Poppins", sans-serif;;
+    font-weight: 400;
+    font-size: 30px;
+}
+.produto{
+    color:#3B3B1A;
+    margin: 15px;
+    font-family: "Poppins", sans-serif;;
+    font-weight: 400;
+    font-size: 23px;
+}
+.ingredientes{
+    color:#8A784E;
+    font-size: 18px;
+    font-family:"Poppins", sans-serif; ;
+}
+.precos{
+    font-weight: 500;
+    font-family: "Poppins", sans-serif; ;
+}
+.bebidas{
+    color: rgb(44, 42, 42);
+       font-family: "Poppins", sans-serif;;
+    font-weight: 400;
+    font-size: 18px; 
+}
+.sobremesas{
+    font-family: "Poppins", sans-serif;;
+    font-weight: 400;
+    font-size: 18px;
+}
+.imagem{
+    width: 150px;
+}
+.contatos{
+    font-family: "Poppins", sans-serif;;
+    font-size: 20px;
+    text-align: center;
+}
+.logo{
+    width: 50px;
+}
+.link_instagram{
+    font-size: 20px;
+    color: rgb(38, 36, 36);
+    text-decoration: none;
+}
